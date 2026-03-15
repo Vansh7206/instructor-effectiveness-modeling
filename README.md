@@ -45,7 +45,8 @@ instructor-effectiveness-modeling/
 │   ├── random_forest_model.pkl
 │   └── scaler.pkl
 ├── dashboard/
-│   └── instructor_effectiveness_dashboard.pbix
+│   └── EdTech.pbix
+│   └── dashboard_preview.png
 ├── requirements.txt
 └── README.md
 ```
